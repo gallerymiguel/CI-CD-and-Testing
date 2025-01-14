@@ -53,7 +53,7 @@ npm run test
 - **Deployment Workflow**: Triggers on merge to `main`. Automatically deploys the application to Render.
 
 ### Render Deployment
-- **URL**: [https://your-app.onrender.com](https://film-tracker-ci-cd-and-testing.onrender.com) (example URL)
+- **URL**: [https://film-tracker-ci-cd-and-testing.onrender.com/](https://film-tracker-ci-cd-and-testing.onrender.com)
 - Deployment is triggered via GitHub Actions upon code merge.
 
 ## Contributing
