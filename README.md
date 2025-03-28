@@ -13,6 +13,7 @@ This project demonstrates a continuous integration and continuous deployment (CI
 - **Cypress**: For writing and executing end-to-end tests.
 - **GitHub Actions**: For automating tests and deployment.
 - **Render**: As the deployment platform.
+- **CircleCi**: More testing and deploying.
 - [Other technologies used in the project, e.g., React, Node.js, etc.]
 
 ## Getting Started
